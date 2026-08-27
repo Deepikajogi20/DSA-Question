@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Deepikajogi20/DSA-Question/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Deepikajogi20/DSA-Question/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Deepikajogi20/DSA-Question/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Deepikajogi20/DSA-Question/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Deepikajogi20/DSA-Question/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0268-missing-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Deepikajogi20/DSA-Question/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepikajogi20/DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/Deepikajogi20/DSA-Question/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Deepikajogi20/DSA-Question/tree/master/0238-product-of-array-except-self) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Deepikajogi20/DSA-Question/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Deepikajogi20/DSA-Question/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Counting Sort
@@ -372,4 +375,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Deepikajogi20/DSA-Question/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Deepikajogi20/DSA-Question/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Deepikajogi20/DSA-Question/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Deepikajogi20/DSA-Question/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
