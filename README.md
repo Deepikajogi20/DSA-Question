@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepikajogi20/DSA-Question/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepikajogi20/DSA-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Deepikajogi20/DSA-Question/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepikajogi20/DSA-Question/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Deepikajogi20/DSA-Question/tree/master/0075-sort-colors) |
 | [0875-koko-eating-bananas](https://github.com/Deepikajogi20/DSA-Question/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepikajogi20/DSA-Question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1408-string-matching-in-an-array) |
@@ -85,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Deepikajogi20/DSA-Question/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepikajogi20/DSA-Question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Deepikajogi20/DSA-Question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Deepikajogi20/DSA-Question/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Deepikajogi20/DSA-Question/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Deepikajogi20/DSA-Question/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
