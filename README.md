@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Deepikajogi20/DSA-Question/tree/master/1108-defanging-an-ip-address) |
 | [1392-longest-happy-prefix](https://github.com/Deepikajogi20/DSA-Question/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1408-string-matching-in-an-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Deepikajogi20/DSA-Question/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Deepikajogi20/DSA-Question/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Sliding Window
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Deepikajogi20/DSA-Question/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Deepikajogi20/DSA-Question/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/Deepikajogi20/DSA-Question/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Deepikajogi20/DSA-Question/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Dynamic Programming
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Deepikajogi20/DSA-Question/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/Deepikajogi20/DSA-Question/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Deepikajogi20/DSA-Question/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
 | ------- |
