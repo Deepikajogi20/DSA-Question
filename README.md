@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Deepikajogi20/DSA-Question/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Deepikajogi20/DSA-Question/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Deepikajogi20/DSA-Question/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0523-continuous-subarray-sum) |
@@ -326,7 +327,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Deepikajogi20/DSA-Question/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Deepikajogi20/DSA-Question/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepikajogi20/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Deepikajogi20/DSA-Question/tree/master/0724-find-pivot-index) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Deepikajogi20/DSA-Question/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
