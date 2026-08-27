@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Deepikajogi20/DSA-Question/tree/master/0326-power-of-three) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Deepikajogi20/DSA-Question/tree/master/0779-k-th-symbol-in-grammar) |
 ## Bit Manipulation
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Deepikajogi20/DSA-Question/tree/master/0326-power-of-three) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Deepikajogi20/DSA-Question/tree/master/0779-k-th-symbol-in-grammar) |
 ## Array
 |  |
