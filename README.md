@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Deepikajogi20/DSA-Question/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Deepikajogi20/DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Deepikajogi20/DSA-Question/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Deepikajogi20/DSA-Question/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Deepikajogi20/DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
