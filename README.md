@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Deepikajogi20/DSA-Question/tree/master/0076-minimum-window-substring) |
+| [0451-sort-characters-by-frequency](https://github.com/Deepikajogi20/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
 | [1122-relative-sort-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1122-relative-sort-array) |
 ## String
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Deepikajogi20/DSA-Question/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepikajogi20/DSA-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0179-largest-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Deepikajogi20/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
 | [1392-longest-happy-prefix](https://github.com/Deepikajogi20/DSA-Question/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1408-string-matching-in-an-array) |
 ## Sliding Window
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Deepikajogi20/DSA-Question/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Deepikajogi20/DSA-Question/tree/master/0274-h-index) |
+| [0451-sort-characters-by-frequency](https://github.com/Deepikajogi20/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
 | [1122-relative-sort-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
@@ -148,11 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Deepikajogi20/DSA-Question/tree/master/0274-h-index) |
+| [0451-sort-characters-by-frequency](https://github.com/Deepikajogi20/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
 | [1122-relative-sort-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1122-relative-sort-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Deepikajogi20/DSA-Question/tree/master/0164-maximum-gap) |
+| [0451-sort-characters-by-frequency](https://github.com/Deepikajogi20/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
 ## Radix Sort
 |  |
 | ------- |
@@ -201,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Deepikajogi20/DSA-Question/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Deepikajogi20/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
