@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Deepikajogi20/DSA-Question/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepikajogi20/DSA-Question/tree/master/0151-reverse-words-in-a-string) |
 | [1392-longest-happy-prefix](https://github.com/Deepikajogi20/DSA-Question/tree/master/1392-longest-happy-prefix) |
+| [1408-string-matching-in-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1408-string-matching-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Deepikajogi20/DSA-Question/tree/master/1392-longest-happy-prefix) |
+| [1408-string-matching-in-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1408-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/Deepikajogi20/DSA-Question/tree/master/0779-k-th-symbol-in-grammar) |
+## Array
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
