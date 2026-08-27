@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepikajogi20/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Deepikajogi20/DSA-Question/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/Deepikajogi20/DSA-Question/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Deepikajogi20/DSA-Question/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1122-relative-sort-array) |
 ## String
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0179-largest-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepikajogi20/DSA-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepikajogi20/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/Deepikajogi20/DSA-Question/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/Deepikajogi20/DSA-Question/tree/master/0806-number-of-lines-to-write-string) |
 | [1392-longest-happy-prefix](https://github.com/Deepikajogi20/DSA-Question/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1408-string-matching-in-an-array) |
