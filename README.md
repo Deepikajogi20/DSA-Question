@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Deepikajogi20/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/Deepikajogi20/DSA-Question/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/Deepikajogi20/DSA-Question/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1122-relative-sort-array) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Deepikajogi20/DSA-Question/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepikajogi20/DSA-Question/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/Deepikajogi20/DSA-Question/tree/master/0904-fruit-into-baskets) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Deepikajogi20/DSA-Question/tree/master/0704-binary-search) |
 | [0806-number-of-lines-to-write-string](https://github.com/Deepikajogi20/DSA-Question/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/Deepikajogi20/DSA-Question/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Deepikajogi20/DSA-Question/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/Deepikajogi20/DSA-Question/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/Deepikajogi20/DSA-Question/tree/master/0973-k-closest-points-to-origin) |
