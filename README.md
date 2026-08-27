@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Deepikajogi20/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Deepikajogi20/DSA-Question/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Deepikajogi20/DSA-Question/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Deepikajogi20/DSA-Question/tree/master/0724-find-pivot-index) |
 | [0806-number-of-lines-to-write-string](https://github.com/Deepikajogi20/DSA-Question/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/Deepikajogi20/DSA-Question/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Deepikajogi20/DSA-Question/tree/master/0904-fruit-into-baskets) |
@@ -327,4 +328,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Deepikajogi20/DSA-Question/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepikajogi20/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Deepikajogi20/DSA-Question/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
