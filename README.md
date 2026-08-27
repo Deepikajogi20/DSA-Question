@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Deepikajogi20/DSA-Question/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/Deepikajogi20/DSA-Question/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Deepikajogi20/DSA-Question/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Deepikajogi20/DSA-Question/tree/master/0875-koko-eating-bananas) |
 | [1122-relative-sort-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1122-relative-sort-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Deepikajogi20/DSA-Question/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/Deepikajogi20/DSA-Question/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Deepikajogi20/DSA-Question/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Deepikajogi20/DSA-Question/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepikajogi20/DSA-Question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/Deepikajogi20/DSA-Question/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -167,4 +170,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0179-largest-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Deepikajogi20/DSA-Question/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Deepikajogi20/DSA-Question/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Deepikajogi20/DSA-Question/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Deepikajogi20/DSA-Question/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Deepikajogi20/DSA-Question/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
