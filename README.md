@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepikajogi20/DSA-Question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1408-string-matching-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Deepikajogi20/DSA-Question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Deepikajogi20/DSA-Question/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
