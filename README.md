@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Deepikajogi20/DSA-Question/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Deepikajogi20/DSA-Question/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Deepikajogi20/DSA-Question/tree/master/0779-k-th-symbol-in-grammar) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Deepikajogi20/DSA-Question/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/Deepikajogi20/DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Deepikajogi20/DSA-Question/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Deepikajogi20/DSA-Question/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Deepikajogi20/DSA-Question/tree/master/0152-maximum-product-subarray) |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Deepikajogi20/DSA-Question/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
