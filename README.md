@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Deepikajogi20/DSA-Question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1572-matrix-diagonal-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Deepikajogi20/DSA-Question/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Dynamic Programming
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Deepikajogi20/DSA-Question/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Deepikajogi20/DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0240-search-a-2d-matrix-ii) |
+| [1572-matrix-diagonal-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/1572-matrix-diagonal-sum) |
 ## Greedy
 |  |
 | ------- |
