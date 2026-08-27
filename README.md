@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Deepikajogi20/DSA-Question/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/Deepikajogi20/DSA-Question/tree/master/0973-k-closest-points-to-origin) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Deepikajogi20/DSA-Question/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Deepikajogi20/DSA-Question/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Deepikajogi20/DSA-Question/tree/master/2413-smallest-even-multiple) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Deepikajogi20/DSA-Question/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Deepikajogi20/DSA-Question/tree/master/0779-k-th-symbol-in-grammar) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Deepikajogi20/DSA-Question/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
