@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Deepikajogi20/DSA-Question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1572-matrix-diagonal-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/1572-matrix-diagonal-sum) |
+| [1920-build-array-from-permutation](https://github.com/Deepikajogi20/DSA-Question/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Deepikajogi20/DSA-Question/tree/master/2574-left-and-right-sum-differences) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Deepikajogi20/DSA-Question/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/Deepikajogi20/DSA-Question/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
