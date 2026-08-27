@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Deepikajogi20/DSA-Question/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Deepikajogi20/DSA-Question/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepikajogi20/DSA-Question/tree/master/0151-reverse-words-in-a-string) |
+| [0969-pancake-sorting](https://github.com/Deepikajogi20/DSA-Question/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Deepikajogi20/DSA-Question/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Deepikajogi20/DSA-Question/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0912-sort-an-array) |
+| [0969-pancake-sorting](https://github.com/Deepikajogi20/DSA-Question/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/Deepikajogi20/DSA-Question/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Deepikajogi20/DSA-Question/tree/master/1051-height-checker) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Deepikajogi20/DSA-Question/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepikajogi20/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0912-sort-an-array) |
+| [0969-pancake-sorting](https://github.com/Deepikajogi20/DSA-Question/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/Deepikajogi20/DSA-Question/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Deepikajogi20/DSA-Question/tree/master/1051-height-checker) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0179-largest-number) |
+| [0969-pancake-sorting](https://github.com/Deepikajogi20/DSA-Question/tree/master/0969-pancake-sorting) |
 ## Binary Indexed Tree
 |  |
 | ------- |
