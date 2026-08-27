@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Deepikajogi20/DSA-Question/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Deepikajogi20/DSA-Question/tree/master/0164-maximum-gap) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Deepikajogi20/DSA-Question/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Deepikajogi20/DSA-Question/tree/master/0875-koko-eating-bananas) |
 | [1122-relative-sort-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1122-relative-sort-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Deepikajogi20/DSA-Question/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Deepikajogi20/DSA-Question/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Deepikajogi20/DSA-Question/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepikajogi20/DSA-Question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -145,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Deepikajogi20/DSA-Question/tree/master/0164-maximum-gap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
