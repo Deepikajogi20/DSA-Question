@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Deepikajogi20/DSA-Question/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Deepikajogi20/DSA-Question/tree/master/0326-power-of-three) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Deepikajogi20/DSA-Question/tree/master/0779-k-th-symbol-in-grammar) |
 ## Bit Manipulation
@@ -113,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Deepikajogi20/DSA-Question/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Deepikajogi20/DSA-Question/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Deepikajogi20/DSA-Question/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
