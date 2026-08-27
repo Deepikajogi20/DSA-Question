@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deepikajogi20/DSA-Question/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Deepikajogi20/DSA-Question/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Deepikajogi20/DSA-Question/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Deepikajogi20/DSA-Question/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Deepikajogi20/DSA-Question/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Deepikajogi20/DSA-Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0268-missing-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepikajogi20/DSA-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deepikajogi20/DSA-Question/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/Deepikajogi20/DSA-Question/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Deepikajogi20/DSA-Question/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Deepikajogi20/DSA-Question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepikajogi20/DSA-Question/tree/master/0151-reverse-words-in-a-string) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Deepikajogi20/DSA-Question/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Deepikajogi20/DSA-Question/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Deepikajogi20/DSA-Question/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Deepikajogi20/DSA-Question/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Deepikajogi20/DSA-Question/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Deepikajogi20/DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Deepikajogi20/DSA-Question/tree/master/0075-sort-colors) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Deepikajogi20/DSA-Question/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Deepikajogi20/DSA-Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Deepikajogi20/DSA-Question/tree/master/0147-insertion-sort-list) |
