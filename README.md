@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Deepikajogi20/DSA-Question/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Deepikajogi20/DSA-Question/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Deepikajogi20/DSA-Question/tree/master/0326-power-of-three) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Deepikajogi20/DSA-Question/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Deepikajogi20/DSA-Question/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Deepikajogi20/DSA-Question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Deepikajogi20/DSA-Question/tree/master/0645-set-mismatch) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Deepikajogi20/DSA-Question/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Deepikajogi20/DSA-Question/tree/master/0326-power-of-three) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Deepikajogi20/DSA-Question/tree/master/0779-k-th-symbol-in-grammar) |
 ## Array
