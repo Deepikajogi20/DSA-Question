@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Deepikajogi20/DSA-Question/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Deepikajogi20/DSA-Question/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Deepikajogi20/DSA-Question/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Deepikajogi20/DSA-Question/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Deepikajogi20/DSA-Question/tree/master/1051-height-checker) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Deepikajogi20/DSA-Question/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepikajogi20/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Deepikajogi20/DSA-Question/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Deepikajogi20/DSA-Question/tree/master/1051-height-checker) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/Deepikajogi20/DSA-Question/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepikajogi20/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Deepikajogi20/DSA-Question/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1122-relative-sort-array) |
 ## Bucket Sort
@@ -170,10 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Deepikajogi20/DSA-Question/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepikajogi20/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Deepikajogi20/DSA-Question/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -185,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Deepikajogi20/DSA-Question/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Deepikajogi20/DSA-Question/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
@@ -208,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Deepikajogi20/DSA-Question/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Deepikajogi20/DSA-Question/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -225,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepikajogi20/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Deepikajogi20/DSA-Question/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
