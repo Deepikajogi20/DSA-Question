@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Deepikajogi20/DSA-Question/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Deepikajogi20/DSA-Question/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Deepikajogi20/DSA-Question/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Deepikajogi20/DSA-Question/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Deepikajogi20/DSA-Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepikajogi20/DSA-Question/tree/master/0424-longest-repeating-character-replacement) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Deepikajogi20/DSA-Question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepikajogi20/DSA-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Deepikajogi20/DSA-Question/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Deepikajogi20/DSA-Question/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepikajogi20/DSA-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepikajogi20/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepikajogi20/DSA-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deepikajogi20/DSA-Question/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Deepikajogi20/DSA-Question/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Deepikajogi20/DSA-Question/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepikajogi20/DSA-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepikajogi20/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Deepikajogi20/DSA-Question/tree/master/0187-repeated-dna-sequences) |
 | [1044-longest-duplicate-substring](https://github.com/Deepikajogi20/DSA-Question/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/Deepikajogi20/DSA-Question/tree/master/1392-longest-happy-prefix) |
 ## String Matching
@@ -79,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Deepikajogi20/DSA-Question/tree/master/0187-repeated-dna-sequences) |
 | [1044-longest-duplicate-substring](https://github.com/Deepikajogi20/DSA-Question/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/Deepikajogi20/DSA-Question/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepikajogi20/DSA-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Deepikajogi20/DSA-Question/tree/master/0187-repeated-dna-sequences) |
 | [0459-repeated-substring-pattern](https://github.com/Deepikajogi20/DSA-Question/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Deepikajogi20/DSA-Question/tree/master/0686-repeated-string-match) |
 | [1044-longest-duplicate-substring](https://github.com/Deepikajogi20/DSA-Question/tree/master/1044-longest-duplicate-substring) |
@@ -142,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Deepikajogi20/DSA-Question/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Deepikajogi20/DSA-Question/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/Deepikajogi20/DSA-Question/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Deepikajogi20/DSA-Question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0268-missing-number) |
@@ -242,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepikajogi20/DSA-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Deepikajogi20/DSA-Question/tree/master/0187-repeated-dna-sequences) |
 | [0686-repeated-string-match](https://github.com/Deepikajogi20/DSA-Question/tree/master/0686-repeated-string-match) |
 | [1044-longest-duplicate-substring](https://github.com/Deepikajogi20/DSA-Question/tree/master/1044-longest-duplicate-substring) |
 ## Binary Search
