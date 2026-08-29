@@ -545,4 +545,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Deepikajogi20/DSA-Question/tree/master/0079-word-search) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Deepikajogi20/DSA-Question/tree/master/1042-flower-planting-with-no-adjacent) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Deepikajogi20/DSA-Question/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Theory
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Deepikajogi20/DSA-Question/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Deepikajogi20/DSA-Question/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
