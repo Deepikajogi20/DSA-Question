@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Deepikajogi20/DSA-Question/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Deepikajogi20/DSA-Question/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Deepikajogi20/DSA-Question/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepikajogi20/DSA-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deepikajogi20/DSA-Question/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Deepikajogi20/DSA-Question/tree/master/0049-group-anagrams) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Deepikajogi20/DSA-Question/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deepikajogi20/DSA-Question/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Deepikajogi20/DSA-Question/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Deepikajogi20/DSA-Question/tree/master/0234-palindrome-linked-list) |
@@ -609,4 +611,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Deepikajogi20/DSA-Question/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Deepikajogi20/DSA-Question/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
