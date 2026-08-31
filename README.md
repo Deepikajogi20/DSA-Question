@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Deepikajogi20/DSA-Question/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Deepikajogi20/DSA-Question/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Deepikajogi20/DSA-Question/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/Deepikajogi20/DSA-Question/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Deepikajogi20/DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepikajogi20/DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/Deepikajogi20/DSA-Question/tree/master/0187-repeated-dna-sequences) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Deepikajogi20/DSA-Question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Deepikajogi20/DSA-Question/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Deepikajogi20/DSA-Question/tree/master/0025-reverse-nodes-in-k-group) |
+| [0138-copy-list-with-random-pointer](https://github.com/Deepikajogi20/DSA-Question/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Deepikajogi20/DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Deepikajogi20/DSA-Question/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Deepikajogi20/DSA-Question/tree/master/0147-insertion-sort-list) |
