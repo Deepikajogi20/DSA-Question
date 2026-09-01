@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Deepikajogi20/DSA-Question/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deepikajogi20/DSA-Question/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepikajogi20/DSA-Question/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deepikajogi20/DSA-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Deepikajogi20/DSA-Question/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepikajogi20/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Deepikajogi20/DSA-Question/tree/master/0232-implement-queue-using-stacks) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Deepikajogi20/DSA-Question/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deepikajogi20/DSA-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Deepikajogi20/DSA-Question/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Breadth-First Search
 |  |
@@ -654,4 +656,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepikajogi20/DSA-Question/tree/master/0084-largest-rectangle-in-histogram) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deepikajogi20/DSA-Question/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deepikajogi20/DSA-Question/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
