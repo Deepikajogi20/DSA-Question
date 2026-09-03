@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Deepikajogi20/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepikajogi20/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Deepikajogi20/DSA-Question/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Deepikajogi20/DSA-Question/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Deepikajogi20/DSA-Question/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Deepikajogi20/DSA-Question/tree/master/0904-fruit-into-baskets) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepikajogi20/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Deepikajogi20/DSA-Question/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepikajogi20/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Deepikajogi20/DSA-Question/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Deepikajogi20/DSA-Question/tree/master/0704-binary-search) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Deepikajogi20/DSA-Question/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0324-wiggle-sort-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepikajogi20/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Deepikajogi20/DSA-Question/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Deepikajogi20/DSA-Question/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/Deepikajogi20/DSA-Question/tree/master/0969-pancake-sorting) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/Deepikajogi20/DSA-Question/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepikajogi20/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Deepikajogi20/DSA-Question/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Deepikajogi20/DSA-Question/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1122-relative-sort-array) |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Deepikajogi20/DSA-Question/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0324-wiggle-sort-ii) |
+| [0621-task-scheduler](https://github.com/Deepikajogi20/DSA-Question/tree/master/0621-task-scheduler) |
 | [0969-pancake-sorting](https://github.com/Deepikajogi20/DSA-Question/tree/master/0969-pancake-sorting) |
 ## Binary Indexed Tree
 |  |
@@ -480,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Deepikajogi20/DSA-Question/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepikajogi20/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Deepikajogi20/DSA-Question/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Deepikajogi20/DSA-Question/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
