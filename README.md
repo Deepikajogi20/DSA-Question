@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Deepikajogi20/DSA-Question/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Deepikajogi20/DSA-Question/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Deepikajogi20/DSA-Question/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepikajogi20/DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/Deepikajogi20/DSA-Question/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Deepikajogi20/DSA-Question/tree/master/0242-valid-anagram) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Deepikajogi20/DSA-Question/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Deepikajogi20/DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Deepikajogi20/DSA-Question/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Deepikajogi20/DSA-Question/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Deepikajogi20/DSA-Question/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Deepikajogi20/DSA-Question/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepikajogi20/DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Deepikajogi20/DSA-Question/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Deepikajogi20/DSA-Question/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Deepikajogi20/DSA-Question/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/Deepikajogi20/DSA-Question/tree/master/0232-implement-queue-using-stacks) |
@@ -783,4 +786,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Deepikajogi20/DSA-Question/tree/master/0295-find-median-from-data-stream) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Deepikajogi20/DSA-Question/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
