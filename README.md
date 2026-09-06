@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Deepikajogi20/DSA-Question/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Deepikajogi20/DSA-Question/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Deepikajogi20/DSA-Question/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Deepikajogi20/DSA-Question/tree/master/0493-reverse-pairs) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Deepikajogi20/DSA-Question/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Deepikajogi20/DSA-Question/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Deepikajogi20/DSA-Question/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0518-coin-change-ii) |
 ## Manacher
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Deepikajogi20/DSA-Question/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Deepikajogi20/DSA-Question/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Deepikajogi20/DSA-Question/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Deepikajogi20/DSA-Question/tree/master/0322-coin-change) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Deepikajogi20/DSA-Question/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Theory
 |  |
@@ -822,9 +825,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Deepikajogi20/DSA-Question/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Deepikajogi20/DSA-Question/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
