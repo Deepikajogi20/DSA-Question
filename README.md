@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Deepikajogi20/DSA-Question/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Deepikajogi20/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepikajogi20/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Deepikajogi20/DSA-Question/tree/master/0621-task-scheduler) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Deepikajogi20/DSA-Question/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0518-coin-change-ii) |
 ## Manacher
 |  |
 | ------- |
@@ -817,4 +819,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Deepikajogi20/DSA-Question/tree/master/0200-number-of-islands) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
