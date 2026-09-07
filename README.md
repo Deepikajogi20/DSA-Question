@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Deepikajogi20/DSA-Question/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Deepikajogi20/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0518-coin-change-ii) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Deepikajogi20/DSA-Question/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Deepikajogi20/DSA-Question/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Deepikajogi20/DSA-Question/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/Deepikajogi20/DSA-Question/tree/master/1143-longest-common-subsequence) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Deepikajogi20/DSA-Question/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Deepikajogi20/DSA-Question/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Prefix Sum
@@ -838,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Deepikajogi20/DSA-Question/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -848,4 +852,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Deepikajogi20/DSA-Question/tree/master/1143-longest-common-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
