@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Deepikajogi20/DSA-Question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Deepikajogi20/DSA-Question/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Deepikajogi20/DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Deepikajogi20/DSA-Question/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Deepikajogi20/DSA-Question/tree/master/0078-subsets) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Deepikajogi20/DSA-Question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Deepikajogi20/DSA-Question/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Deepikajogi20/DSA-Question/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Deepikajogi20/DSA-Question/tree/master/0131-palindrome-partitioning) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Deepikajogi20/DSA-Question/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Deepikajogi20/DSA-Question/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Deepikajogi20/DSA-Question/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Deepikajogi20/DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Deepikajogi20/DSA-Question/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Deepikajogi20/DSA-Question/tree/master/0200-number-of-islands) |
