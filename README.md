@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Deepikajogi20/DSA-Question/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Deepikajogi20/DSA-Question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Deepikajogi20/DSA-Question/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Deepikajogi20/DSA-Question/tree/master/1572-matrix-diagonal-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Deepikajogi20/DSA-Question/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Deepikajogi20/DSA-Question/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/Deepikajogi20/DSA-Question/tree/master/1044-longest-duplicate-substring) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepikajogi20/DSA-Question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Deepikajogi20/DSA-Question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Deepikajogi20/DSA-Question/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Deepikajogi20/DSA-Question/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Deepikajogi20/DSA-Question/tree/master/1122-relative-sort-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Deepikajogi20/DSA-Question/tree/master/1552-magnetic-force-between-two-balls) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Deepikajogi20/DSA-Question/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Quicksort
 |  |
